@@ -6,8 +6,6 @@ Este repositório contém os **microserviços desenvolvidos para o projeto _Apag
 
 ## 👥 Integrantes
 
-> Substitua os nomes e RMs abaixo:
-
 - João Pedro Cruz – RM98650  
 - Tiago Paulino – RM551169  
 - Victor Eid Carbutti Nicolas – RM98668
